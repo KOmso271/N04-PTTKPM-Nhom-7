@@ -1,5 +1,5 @@
 # README
-1
+
 ## 1. Mô tả khái quát về nội dung đề tài
 
 Dự án này được phát triển bởi Nhóm 7 - môn Phát Triển Tích Hợp Phần Mềm (PTTKPM). Đề tài tập trung vào việc xây dựng một hệ thống ứng dụng phần mềm nhằm giải quyết một vấn đề thực tế cụ thể (ví dụ: quản lý, thương mại điện tử, giáo dục, y tế, hoặc các lĩnh vực khác).
